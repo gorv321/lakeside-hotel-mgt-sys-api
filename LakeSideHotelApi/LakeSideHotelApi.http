@@ -1,0 +1,6 @@
+@LakeSideHotelApi_HostAddress = http://localhost:5283
+
+GET {{LakeSideHotelApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
